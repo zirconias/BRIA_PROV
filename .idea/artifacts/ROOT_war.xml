@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ROOT:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="BRIA_PROV-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="BRIA_PROV:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib" />
+      </element>
+    </root>
+  </artifact>
+</component>
